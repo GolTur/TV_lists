@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0,Ну ты это, заходи если чё
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD 50
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/15131/index.m3u8
+#EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD orig
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/7253/index.m3u8
+#EXTINF:0 group-title="Мир Iptv" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал HD
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/204/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="5375" tvg-logo="http://epg.it999.ru/img/5375.png" tvg-rec="0",Новое радио FHD
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/14162/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="4708" tvg-logo="http://epg.it999.ru/img/4708.png" tvg-rec="7",KBC-Second HIT
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/11082/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="4715" tvg-logo="http://epg.it999.ru/img/4715.png" tvg-rec="7",KBC-НАШ ROCK
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/11089/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="5290" tvg-logo="http://epg.it999.ru/img/5290.png" tvg-rec="0",Z! Musiс HD
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/14138/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="5291" tvg-logo="http://epg.it999.ru/img/5291.png" tvg-rec="0",Z! Rock HD
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/14139/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="1649" tvg-logo="http://epg.it999.ru/img/1649.png" tvg-rec="3",ТНТ4 orig
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/9208/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="1649" tvg-logo="http://epg.it999.ru/img/1649.png" tvg-rec="7",ТНТ4
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/104/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="2288" tvg-logo="http://epg.it999.ru/img/5604.png" tvg-rec="0",Суббота HD
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/15118/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="2288" tvg-logo="http://epg.it999.ru/img/2288.png" tvg-rec="7",Суббота
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/826/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="2288" tvg-logo="http://epg.it999.ru/img/2288.png" tvg-rec="3",Суббота orig
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/9103/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="1322" tvg-logo="http://epg.it999.ru/img/1322.png" tvg-rec="3",СТС Love orig
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/9099/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="1322" tvg-logo="http://epg.it999.ru/img/1322.png" tvg-rec="7",СТС Love
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/103/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="1700" tvg-logo="http://epg.it999.ru/img/1700.png" tvg-rec="3",КВН ТВ orig
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/9108/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="1700" tvg-logo="http://epg.it999.ru/img/1700.png" tvg-rec="7",КВН ТВ
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/546/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="898" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="3",Ю ТВ orig
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/9107/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="898" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="7",Ю ТВ
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/534/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="663" tvg-logo="http://epg.it999.ru/img/663.png" tvg-rec="7",Сарафан
+http://typicamn.russtv.net/iptv/N5U4GHRQQ5WAL9/748/index.m3u8
